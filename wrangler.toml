@@ -5,7 +5,7 @@ pages_build_output_dir = ".vercel/output/static"
 
 [env.production.vars]
 GITHUB_CLIENT_ID = "Ov23liFay7T4gvOFhHwS"
-GITHUB_OWNER = "litangwang"
+GITHUB_OWNER = "LiTangWang"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://www.155.org/api/auth"
